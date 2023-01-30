@@ -1,2 +1,2 @@
-# Programming-technologies
-Laboratory work in C++ on the class of programming technology
+# С++
+## Лабораторные по предмету "Технологии программирования".
