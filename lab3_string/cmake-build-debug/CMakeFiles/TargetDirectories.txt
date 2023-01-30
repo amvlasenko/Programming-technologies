@@ -1,0 +1,3 @@
+/Users/amvlasenko/CLionProjects/lab3_string/cmake-build-debug/CMakeFiles/lab3_string.dir
+/Users/amvlasenko/CLionProjects/lab3_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amvlasenko/CLionProjects/lab3_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
