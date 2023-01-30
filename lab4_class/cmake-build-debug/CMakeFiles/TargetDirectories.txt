@@ -1,3 +1,0 @@
-/Users/amvlasenko/CLionProjects/lab4_class/cmake-build-debug/CMakeFiles/lab4_class.dir
-/Users/amvlasenko/CLionProjects/lab4_class/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/amvlasenko/CLionProjects/lab4_class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
